@@ -12,8 +12,8 @@ Hair Bang >> Shear,Hair Bang >> Shear,Pony >> Scherung,False
 Hair Bang << Position,Hair Bang << Position,Pony << Position,False
 Hair Bang << Length,Hair Bang << Length,Pony << Länge,False
 Hair Bang << Shear,Hair Bang << Shear,Pony << Scherung,False
-Hair Framing << Length,Hair Framing << Length,Haarrahmen << Länge,False
-Hair Framing >> Length,Hair Framing >> Length,Haarrahmen >> Länge,False
+Hair Framing << Length,Hair Framing << Length,Seitensträhnen << Länge,False
+Hair Framing >> Length,Hair Framing >> Length,Seitensträhnen >> Länge,False
 Hair Side Length,Hair Side Length,Haarseitenlänge,False
 Hair Rear Length,Hair Rear Length,Haarlänge hinten,False
 Ahoge Position,Ahoge Position,Ahoge-Position,False

@@ -49,10 +49,10 @@ Fin >>,Fin >>,Flosse >>,True
 Fin >> Outline,Fin >> Outline,Flosse >> Umriss,True
 Fin <<,Fin <<,Flosse <<,True
 Fin << Outline,Fin << Outline,Flosse << Umriss,True
-Hair Framing >>,Hair Framing >>,Haarrahmen >>,False
-Hair Framing >> Outline,Hair Framing >> Outline,Haarrahmen >> Umriss,False
-Hair Framing <<,Hair Framing <<,Haarrahmen <<,False
-Hair Framing << Outline,Hair Framing << Outline,Haarrahmen << Umriss,False
+Hair Framing >>,Hair Framing >>,Seitensträhnen >>,True
+Hair Framing >> Outline,Hair Framing >> Outline,Seitensträhnen >> Umriss,True
+Hair Framing <<,Hair Framing <<,Seitensträhnen <<,True
+Hair Framing << Outline,Hair Framing << Outline,Seitensträhnen << Umriss,True
 Gill,Gill,Kieme,True
 Gill Outline,Gill Outline,Kiemen-Umriss,True
 Glasses,Glasses,Brille,True
@@ -101,7 +101,7 @@ Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Haar-Highlight 3 << Umri
 Hairline Outline,Hairline Outline,Haarlinien-Umriss,True
 Hair Shine,Hair Shine,Haarglanz,True
 Hair Shine Outline,Hair Shine Outline,Haarglanz Umriss,True
-Halo,Halo,Halo,True
+Halo,Halo,Heiligenschein,True
 Halo Outline,Halo Outline,Halo-Umriss,True
 Hat,Hat,Hut,True
 Hat Outline,Hat Outline,Hut-Umriss,True
