@@ -64,7 +64,7 @@ MainMenu.Info.ThirdPartyLicense,Third Party Licenses,サードパーティライ
 MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),エンドユーザー使用許諾契約（EULA）,True
 MainMenu.Info.Documentation,Documentation,ドキュメント,True
 MainMenu.Info.Discord,Join Our Discord,Discordに参加,True
-MainMenu.Settings.ExportSettings.PresetsInfo,This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.,このプリセットは適切な形式とサイズを設定します。非常に長いアニメーションはプラットフォームのファイルサイズ制限を超える場合があります。また、一部のプラットフォームでは特定のコンテンツが制限される場合があります。,True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",このプリセットは適切な形式とサイズを設定します。非常に長いアニメーションはプラットフォームのファイルサイズ制限を超える場合があります。また、一部のプラットフォームでは特定のコンテンツが制限される場合があります。,True
 MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,ローカルモデルフォルダーを開く,True
 MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,キャラクターフォルダーを開く,True
 MainMenu.Info.Log,Open Log Folder,ログフォルダーを開く,True
