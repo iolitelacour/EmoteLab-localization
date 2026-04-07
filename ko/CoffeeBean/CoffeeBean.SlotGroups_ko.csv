@@ -18,7 +18,7 @@ Hair Rear Outline,Hair Rear Outline,뒷머리 외곽선,True
 Beverage Cup,Beverage Cup,음료 컵,True
 Beverage Liquid,Beverage Liquid,음료수 1,True
 Beverage Liquid 2,Beverage Liquid 2,음료수 2,True
-Bill,Bill,지폐 뭉치,True
+Bill,Bill,지폐,True
 Blanket Inner,Blanket Inner,이불 안감,True
 Blanket Outter,Blanket Outter,이불 겉감,True
 Face Blush,Face Blush,볼터치,True
@@ -29,18 +29,18 @@ Crowbar,Crowbar,쇠지렛대,True
 Cup,Cup,컵,True
 Cup Steam,Cup Steam,컵 수증기,True
 Door/Wall,Door/Wall,문/벽,True
-Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,눈(Dum) 눈동자 >>,True
-Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,눈(Dum) 눈동자 <<,True
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,바보 눈동자 >>,True
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,바보 눈동자 <<,True
 Eyebag,Eyebag,다크서클,True
-Eye Iris Dark >>,Eye Iris Dark >>,아이 아이리스 다크 >>,True
-Eye Iris Dark <<,Eye Iris Dark <<,눈 홍채 다크 <<,True
+Eye Iris Dark >>,Eye Iris Dark >>,눈동자 음영 >>,True
+Eye Iris Dark <<,Eye Iris Dark <<,눈동자 음영 <<,True
 Eye Dollar,Eye Dollar,달러($) 눈,True
 Eye Heart,Eye Heart,하트 눈,True
 Eye Highlight,Eye Highlight,눈 하이라이트,True
 Eyelashes,Eyelashes,속눈썹,True
 Eye Iris Light >>,Eye Iris Light >>,눈동자 반사광 >>,True
 Eye Iris Light <<,Eye Iris Light <<,눈동자 반사광 <<,True
-Eye(Dum) Outline,Eye(Dum) Outline,눈(Dum) 외곽선,True
+Eye(Dum) Outline,Eye(Dum) Outline,바보 눈동자 외곽선,True
 Eye Sparkling,Eye Sparkling,눈 반짝임,True
 Eye Spiral,Eye Spiral,눈 나선형,True
 Eye White,Eye White,눈 흰자,True
